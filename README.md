@@ -1,6 +1,6 @@
 # Welcome to the Fraight!
 
-*⚠️ Warning! This document contains bugs. ⚠️*
+**⚠️ Warning! This document contains bugs. ⚠️**
 Our goal is to foster a collaborative, creative, and safe culture that allows
 everyone thrive. This handbook is our best attempt to facilitate that environment,
 but we know there are missing features, and unintended consequences.
@@ -13,14 +13,14 @@ Cheers,
 
 Parker and Zeke
 
-## Mission Statement#
+## Mission Statement
 
 <!-- todo -->
 
 ## Core Values
 
-Respect
-Passion
-Authenticity
-Growth
-Mistakes
+- Respect
+- Passion
+- Authenticity
+- Growth
+- Mistakes
