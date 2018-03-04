@@ -1,9 +1,8 @@
-# Welcome to the Fraight!
+# Welcome to Fraight!
 
-**⚠️ Warning! This document contains bugs. ⚠️**
+#### ⚠️ Warning! This document contains bugs. ⚠️
 Our goal is to foster a collaborative, creative, and safe culture that allows
-everyone thrive. This handbook is our best attempt to facilitate that environment,
-but we know there are missing features, and unintended consequences.
+everyone thrive. This handbook is our best attempt to facilitate that environment, but we know there are missing features, and some rules create unintended consequences (bugs).
 
 Just like our business and our product, we want this to be an iterative and collaborative process, and we encourage comments, issues, and change requests!
 
@@ -22,5 +21,5 @@ Parker and Zeke
 - Respect
 - Passion
 - Authenticity
-- Growth
-- Mistakes
+- Growth Mindset
+- Make Mistakes
