@@ -11,6 +11,25 @@ But that doesn't keep us from trying!
 
 [Decisions are hard](https://www.youtube.com/watch?v=VVp8UGjECt4)
 
+##### Decision Scoring: Great // Good // Bad // Blunder
+In chess scoring, there is no such thing** as a "perfect" move. Calculating
+the entire decision tree is just not a realistic strategy.
+
+Our goal is to optimize good/great moves, minimize bad moves, and avoid blunders.
+
+Similar Wisdom:
+ - Don't make perfect the enemy of the good.
+ - Paralysis by analysis
+
+*Ok, well Deep Blue kinda messed this up, but the point holds.*
+
+##### Draw the Owl
+> There are two steps in drawing an owl.
+> First, you draw a circle for the head, and a circle for the body
+> Then, you draw the fucking owl.
+
+Origin: Startups
+
 ##### Disagree and Commit
 Decisions are hard. We cannot be afraid to make bad choices, and someone
 needs to make the call. We do not always need complete agreement, but we always
@@ -52,13 +71,6 @@ Q2 - not-urgent & important; this is where the magic happens
 
 Origin: Eisenhower
 
-##### Draw the Owl
-> There are two steps in drawing an owl.
-> First, you draw a circle for the head, and a circle for the body
-> Then, you draw the fucking owl.
-
-Origin: Startups
-
 ##### Sharpen the Axe
 > "Give me 6 hours to cut down a tree, and I'll spend the first four sharpening the axe" - Abraham Lincoln
 
@@ -66,17 +78,12 @@ Long term thinking, planning.
 Sometime it feels good to just start swinging, but it's important to remember
 we're in this for the long haul.
 
-##### Decision Scoring: Great // Good // Bad // Blunder
-In chess scoring, there is no such thing** as a "perfect" move. Calculating
-the entire decision tree is just not a realistic strategy.
+## Some Quotes 
 
-Our goal is to optimize good/great moves, minimize bad moves, and avoid blunders.
+> "If you want to go fast, go alone. If you want to go far, go together"
 
-Similar Wisdom:
- - Don't make perfect the enemy of the good.
- - Paralysis by analysis
+> "The best time to start was last year. Failing that, today will do."
 
-*Ok, well Deep Blue kinda messed this up, but the point holds.*
 
 ## FraightChat
 
